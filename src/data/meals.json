@@ -1,0 +1,42 @@
+{
+   "items":[
+      {
+         "title":"Steak",
+         "recipe":"Sear in a cast iron, and baste with butter!",
+         "url":"https://www.seriouseats.com/recipes/images/2015/05/Anova-Steak-Guide-Sous-Vide-Photos15-beauty-1500x1125.jpg",
+         "steps": [
+           "Season your steak with salt and pepper",
+           "Lightly oil a cast iron pan and heat on medium high heat",
+           "When the pan is hot enough, just barely starting to smoke, add your steaks!",
+           "Sear each side for two minutes, add butter and thyme to the pan",
+           "Cook for 4-5 minutes for rare, 6-8 minutes for medium rare, and don't ever cook a good steak past medium :)"
+         ]
+      },
+      {
+         "title":"Chicken",
+         "recipe":"Season generously, and bake in the oven!",
+         "url":"https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/7cf82a4e-acc7-463f-850f-c4b334434a01/5ae8e8b6-2114-44a6-9267-b60eee6168a5/1280x720/match/image.jpg",
+         "steps": [
+           "Preheat your oven to 400 degrees",
+           "Season your chicken with thyme, rosemary, salt and pepper",
+           "Cover a baking sheet in tin foil, and lightly spray with cooking oil or spread olive oil",
+           "When the oven reaches temperature, place chickens on baking sheet and place in top rack",
+           "Cook for 25 minutes",
+           "Let rest for about 5 minutes and enjoy!"
+         ]
+      },
+      {
+         "title":"Lambchop",
+         "recipe":"Cover in butter, garlic, and thyme, and bake!",
+         "url":"https://www.simplyrecipes.com/wp-content/uploads/2013/02/rosemary-crusted-lamb-shops-horiz-a-1600.jpg",
+         "steps": [
+           "Preheat your oven to 400 degrees",
+           "In a small bowl, slightly melt butter in the microwave, about 10 seconds",
+           "Mix minced garlic and thyme into the butter",
+           "Spread this butter mixture all over the lamb chop",
+           "Place on a baking rack and cook for 25 minutes",
+           "Let rest for about 5 minutes, slice, and enjoy!"
+         ]
+      }
+   ]
+}

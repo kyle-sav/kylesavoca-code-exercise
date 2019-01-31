@@ -1,0 +1,45 @@
+.Carousel {
+	margin: 0 auto;
+	margin-top: 50px;
+    background-color: #FBEEC1;
+	width: 500px;
+	@media screen and (max-device-width: 640px){
+		width:100%;
+	}
+	.sliderItem {
+		position: relative;
+	}
+	.galleryImage {
+		margin: 0 auto;
+		height: 500px;
+		width: 500px;
+		background-size: 500px 500px;
+		background-repeat: no-repeat;
+		filter: blur(6px);
+  		-webkit-filter: blur(6px);
+	}
+	h1 {
+		padding-top: 5px;
+	}
+	.slick-arrow {
+		&.slick-prev, &.slick-next{
+			display: none!important;
+			//I know, I know. Couldn't find anything in the docs for this library to remove the paddlenavs :D
+		}
+	}
+
+	.recipeText {
+		width: 100%;
+		z-index: 10;
+		color: #fff;
+		position: absolute;
+		bottom: 75px;
+		margin: 0 auto;
+
+		p, h2 {
+			text-align: center;
+			font-weight: 600;
+
+		}
+	}
+}

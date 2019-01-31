@@ -1,0 +1,32 @@
+.Carousel {
+  margin: 0 auto;
+  margin-top: 50px;
+  background-color: #FBEEC1;
+  width: 500px; }
+  @media screen and (max-device-width: 640px) {
+    .Carousel {
+      width: 100%; } }
+  .Carousel .sliderItem {
+    position: relative; }
+  .Carousel .galleryImage {
+    margin: 0 auto;
+    height: 500px;
+    width: 500px;
+    background-size: 500px 500px;
+    background-repeat: no-repeat;
+    filter: blur(6px);
+    -webkit-filter: blur(6px); }
+  .Carousel h1 {
+    padding-top: 5px; }
+  .Carousel .slick-arrow.slick-prev, .Carousel .slick-arrow.slick-next {
+    display: none !important; }
+  .Carousel .recipeText {
+    width: 100%;
+    z-index: 10;
+    color: #fff;
+    position: absolute;
+    bottom: 75px;
+    margin: 0 auto; }
+    .Carousel .recipeText p, .Carousel .recipeText h2 {
+      text-align: center;
+      font-weight: 600; }
